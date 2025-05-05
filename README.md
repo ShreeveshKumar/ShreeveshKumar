@@ -3,7 +3,7 @@ Full Stack Developer | Building Scalable Web, Mobile and Desktop Apps<br>Special
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wait-work/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23191716) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wait-work) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23191716) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShreeveshKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShreeveshKumar&theme=dark&hide_border=false)<br/>
